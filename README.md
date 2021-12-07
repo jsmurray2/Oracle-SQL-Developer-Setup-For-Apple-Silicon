@@ -1,4 +1,4 @@
-# Oracle-SQL-Developer-Setup-For-Apple-Silicon
+# Oracle SQL Developer Setup For Apple Silicon
 This short tutorial is designed to to get Oracle SQL Developer up and running on devices using Apple Silicon processors such as the Apple M1.
 
 ## Java
